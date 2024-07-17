@@ -1,4 +1,25 @@
-## Hi there 👋
+## About Me
+
+👋 Hi, I’m Jakub, a university student majoring in Information Technology. 
+
+### Skills
+- 💻 **Languages & Technologies:** Proficient in C# and .NET ecosystem (Xamarin, Avalonia, ASP.NET, MAUI).
+
+### Current Projects
+- 🌟 Currently working on a mobile app that scrapes the eDziekanat website. The official mobile API lacks many important features and has subpar UI/UX. My app aims to expand and improve the features and user experience compared to the official app, providing a more comprehensive and user-friendly solution for students.
+
+### Interests
+- 🌐 **Development:** Passionate about web development and mobile development.
+- 🎶 **Hobbies:** In my free time, I enjoy listening to music, playing computer games, indulging in photography, and taking late night walks.
+
+### Motivation
+- 🚀 What drives me is the ability to create anything I can imagine. I love the freedom and creativity that coding provides, allowing me to turn ideas into reality.
+
+### Goals
+- 🎯 My primary goal is to ensure that the projects I work on, like the eDziekanat app, are useful in everyday life and make a positive impact on users.
+
+Feel free to check out my repositories and see what I’m working on. Let’s connect and collaborate!
+
 
 <!--
 **folate/folate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

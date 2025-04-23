@@ -5,9 +5,6 @@
 ### Skills
 - 💻 **Languages & Technologies:** Proficient in C# and the .NET ecosystem (Xamarin, Avalonia, ASP.NET, MAUI).
 
-### Current Projects
-- 🌟 **Currently working on:** A mobile app that scrapes the eDziekanat website. The official mobile API lacks many important features and has subpar UI/UX. My app aims to expand and improve the features and user experience compared to the official app, providing a more comprehensive and user-friendly solution for students.
-
 ### Interests
 - 🌐 **Development:** Passionate about web development and mobile development.
 - 🎶 **Hobbies:** In my free time, I enjoy listening to music, playing computer games, indulging in photography, and taking late night walks.
